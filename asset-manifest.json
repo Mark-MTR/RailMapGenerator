@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RailMapGenerator/static/css/main.bc3a97de.css",
-    "main.js": "/RailMapGenerator/static/js/main.1acb34ce.js",
+    "main.js": "/RailMapGenerator/static/js/main.120acd20.js",
     "templates0.js": "/RailMapGenerator/static/js/templates0.73ea086c.chunk.js",
     "panelSave.js": "/RailMapGenerator/static/js/panelSave.f06f2cbe.chunk.js",
     "panelLayout.js": "/RailMapGenerator/static/js/panelLayout.4a5494de.chunk.js",
     "panelDesign.js": "/RailMapGenerator/static/js/panelDesign.7bf7512f.chunk.js",
     "panelStations.js": "/RailMapGenerator/static/js/panelStations.872f6a0e.chunk.js",
-    "panelInfo.js": "/RailMapGenerator/static/js/panelInfo.99078c96.chunk.js",
+    "panelInfo.js": "/RailMapGenerator/static/js/panelInfo.585d9a48.chunk.js",
     "runinGZMTR.js": "/RailMapGenerator/static/js/runinGZMTR.c0edf922.chunk.js",
     "railmapGZMTR.js": "/RailMapGenerator/static/js/railmapGZMTR.a69107b2.chunk.js",
     "destinationMTR.js": "/RailMapGenerator/static/js/destinationMTR.14de3541.chunk.js",
@@ -25,7 +25,7 @@
     "colours0.js": "/RailMapGenerator/static/js/colours0.3a65a0aa.chunk.js",
     "colours1.js": "/RailMapGenerator/static/js/colours1.16294754.chunk.js",
     "colours3.js": "/RailMapGenerator/static/js/colours3.916cd31c.chunk.js",
-    "colours5.js": "/RailMapGenerator/static/js/colours5.e5e02ad9.chunk.js",
+    "colours5.js": "/RailMapGenerator/static/js/colours5.83582d90.chunk.js",
     "colours7.js": "/RailMapGenerator/static/js/colours7.08aeaaba.chunk.js",
     "colours9.js": "/RailMapGenerator/static/js/colours9.b2dd9e51.chunk.js",
     "colours11.js": "/RailMapGenerator/static/js/colours11.fd019601.chunk.js",
@@ -165,13 +165,13 @@
     "index.html": "/RailMapGenerator/index.html",
     "static/media/getFetch.cjs": "/RailMapGenerator/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.bc3a97de.css.map": "/RailMapGenerator/static/css/main.bc3a97de.css.map",
-    "main.1acb34ce.js.map": "/RailMapGenerator/static/js/main.1acb34ce.js.map",
+    "main.120acd20.js.map": "/RailMapGenerator/static/js/main.120acd20.js.map",
     "templates0.73ea086c.chunk.js.map": "/RailMapGenerator/static/js/templates0.73ea086c.chunk.js.map",
     "panelSave.f06f2cbe.chunk.js.map": "/RailMapGenerator/static/js/panelSave.f06f2cbe.chunk.js.map",
     "panelLayout.4a5494de.chunk.js.map": "/RailMapGenerator/static/js/panelLayout.4a5494de.chunk.js.map",
     "panelDesign.7bf7512f.chunk.js.map": "/RailMapGenerator/static/js/panelDesign.7bf7512f.chunk.js.map",
     "panelStations.872f6a0e.chunk.js.map": "/RailMapGenerator/static/js/panelStations.872f6a0e.chunk.js.map",
-    "panelInfo.99078c96.chunk.js.map": "/RailMapGenerator/static/js/panelInfo.99078c96.chunk.js.map",
+    "panelInfo.585d9a48.chunk.js.map": "/RailMapGenerator/static/js/panelInfo.585d9a48.chunk.js.map",
     "runinGZMTR.c0edf922.chunk.js.map": "/RailMapGenerator/static/js/runinGZMTR.c0edf922.chunk.js.map",
     "railmapGZMTR.a69107b2.chunk.js.map": "/RailMapGenerator/static/js/railmapGZMTR.a69107b2.chunk.js.map",
     "destinationMTR.14de3541.chunk.js.map": "/RailMapGenerator/static/js/destinationMTR.14de3541.chunk.js.map",
@@ -188,7 +188,7 @@
     "panelDesignShmetro.a2878351.chunk.js.map": "/RailMapGenerator/static/js/panelDesignShmetro.a2878351.chunk.js.map",
     "colours1.16294754.chunk.js.map": "/RailMapGenerator/static/js/colours1.16294754.chunk.js.map",
     "colours3.916cd31c.chunk.js.map": "/RailMapGenerator/static/js/colours3.916cd31c.chunk.js.map",
-    "colours5.e5e02ad9.chunk.js.map": "/RailMapGenerator/static/js/colours5.e5e02ad9.chunk.js.map",
+    "colours5.83582d90.chunk.js.map": "/RailMapGenerator/static/js/colours5.83582d90.chunk.js.map",
     "colours7.08aeaaba.chunk.js.map": "/RailMapGenerator/static/js/colours7.08aeaaba.chunk.js.map",
     "colours9.b2dd9e51.chunk.js.map": "/RailMapGenerator/static/js/colours9.b2dd9e51.chunk.js.map",
     "colours11.fd019601.chunk.js.map": "/RailMapGenerator/static/js/colours11.fd019601.chunk.js.map",
@@ -327,6 +327,6 @@
   },
   "entrypoints": [
     "static/css/main.bc3a97de.css",
-    "static/js/main.1acb34ce.js"
+    "static/js/main.120acd20.js"
   ]
 }
