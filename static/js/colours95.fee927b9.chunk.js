@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrail_map_generator=self.webpackChunkrail_map_generator||[]).push([[470],{8675:function(e,r,n){n.r(r);var l=n(4942),a=n(713),s=[{id:"yellow",name:(0,l.Z)({},a.sp.English,"Yellow Line"),colour:"#FABF00"},{id:"green",name:(0,l.Z)({},a.sp.English,"Green Line"),colour:"#0EAB4A"},{id:"bus",name:(0,l.Z)({},a.sp.English,"Bus"),colour:"#e9172a"},{id:"ferry",name:(0,l.Z)({},a.sp.English,"Ferry"),colour:"#82CEF3"}];r.default=s}}]);
-//# sourceMappingURL=colours95.fee927b9.chunk.js.map

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrail_map_generator=self.webpackChunkrail_map_generator||[]).push([[666],{7706:function(e,r,n){n.r(r);var a=n(4942),i=n(713),l=[{id:"inner",name:(0,a.Z)({},i.sp.English,"Inner Circle"),colour:"#4f4c4d"},{id:"outer",name:(0,a.Z)({},i.sp.English,"Outer Circle"),colour:"#f57c14"}];r.default=l}}]);
-//# sourceMappingURL=colours27.24c11956.chunk.js.map

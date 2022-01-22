@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrail_map_generator=self.webpackChunkrail_map_generator||[]).push([[6643],{1650:function(a,e,s){s.r(e);var r,i=s(4942),n=s(713),p=[{id:"other",name:(r={},(0,i.Z)(r,n.sp.English,"Customise"),(0,i.Z)(r,n.sp.ChineseSimp,"\u81ea\u5b9a\u4e49"),(0,i.Z)(r,n.sp.ChineseTrad,"\u81ea\u8a02"),r),colour:"#aaaaaa"}];e.default=p}}]);
-//# sourceMappingURL=colours59.7e137552.chunk.js.map
