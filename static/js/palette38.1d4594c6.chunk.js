@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrail_map_generator=self.webpackChunkrail_map_generator||[]).push([[1435],{7642:function(a,e,n){n.r(e);e.default=[{id:"other",name:{en:"Customise","zh-Hans":"\u81ea\u5b9a\u4e49","zh-Hant":"\u81ea\u8a02"},colour:"#aaaaaa"}]}}]);
+//# sourceMappingURL=palette38.1d4594c6.chunk.js.map
