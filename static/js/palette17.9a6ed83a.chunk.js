@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrail_map_generator=self.webpackChunkrail_map_generator||[]).push([[5053],{4476:function(e,r,n){n.r(r);r.default=[{id:"inner",name:{en:"Inner Circle"},colour:"#4f4c4d"},{id:"outer",name:{en:"Outer Circle"},colour:"#f57c14"}]}}]);
-//# sourceMappingURL=palette17.9a6ed83a.chunk.js.map
